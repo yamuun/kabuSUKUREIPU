@@ -1,3 +1,5 @@
+import os
+import sysconfig
 import string
 
 src = 'tes,t'
